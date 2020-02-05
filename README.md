@@ -1,2 +1,2 @@
-# python-ml-tf2
-python-tensorflow-2nd-practice
+# Tensorflow 2.0
+> 머신러닝 교과서 TF 2.0 을 공부한 내용들을 올리는 곳입니다.
