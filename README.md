@@ -1,2 +1,2 @@
 # Tensorflow 2.0
-> 머신러닝 교과서 TF 2.0 을 공부한 내용들을 올리는 곳입니다.
+> TF 2.0로 모두를 위한 딥러닝(deeplearning zero to all) 강의 공부한 것을 저장
