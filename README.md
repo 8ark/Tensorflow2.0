@@ -1,4 +1,5 @@
 # Tensorflow 2.0
+<<<<<<< HEAD
 > 네이버 부스트코스 강의 중 하나인 모두를 위한 딥러닝(deeplearningzerotoall) 텐서플로우 편
 > 강의를 보면 진행하는 코드를 직접 타이핑하고 주석을 달며 기록
 > 강의는 1.X으로 진행하여 2.0으로 변경된 TF를 활용
@@ -24,3 +25,6 @@
 ### Part-3 CNN
 
 ### Part-4 RNN
+=======
+> TF 2.0로 모두를 위한 딥러닝(deeplearning zero to all) 강의 공부한 것을 저장
+>>>>>>> d288d0c1dc20dc171528cff568fd205889870eaf
