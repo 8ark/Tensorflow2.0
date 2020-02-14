@@ -15,10 +15,17 @@
 > Neural Network의 개념을 설명하며 코드로 작성해보는 과정
 
 > 2장_Simple Linear Regression (2/11)
+<<<<<<< HEAD
 >
 > 3장_Linear Regression_Minimizing cost (2/13)
 >
 > 4장_Multi Variable Linear Regression
+=======
+
+> 3장_Linear Regression_Minimizing cost (2/13)
+
+> 4장_Multi Variable Linear Regression(2/14)
+>>>>>>> ecce2b3689e43e43c5fadba418ee160385577547
 
 ### Part-2 DNN
 
