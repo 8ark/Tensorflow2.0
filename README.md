@@ -10,26 +10,16 @@
 > 강의는 1.X으로 진행하여 2.0으로 변경된 TF를 활용
 
 ### Part-1 Basic_ML
-> 딥러닝 진행을 위한 ML 코스
->
-> Neural Network의 개념을 설명하며 코드로 작성해보는 과정
 
 > 2장_Simple Linear Regression (2/11)
-<<<<<<< HEAD
->
-> 3장_Linear Regression_Minimizing cost (2/13)
->
-> 4장_Multi Variable Linear Regression
-=======
 
 > 3장_Linear Regression_Minimizing cost (2/13)
 
 > 4장_Multi Variable Linear Regression(2/14)
->>>>>>> ecce2b3689e43e43c5fadba418ee160385577547
+
 
 ### Part-2 DNN
 
 ### Part-3 CNN
 
 ### Part-4 RNN
-=======
