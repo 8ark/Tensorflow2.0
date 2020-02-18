@@ -17,6 +17,9 @@
 
 > 4장_Multi Variable Linear Regression(2/14)
 
+> 5장_Logistic Regression_Classifier(2/18)
+* 제시코드 오류로 자체 수정(loss_fn, grad)
+
 
 ### Part-2 DNN
 
