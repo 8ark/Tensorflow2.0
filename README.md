@@ -20,6 +20,8 @@
 > 5장_Logistic Regression_Classifier(2/18)
 * 제시코드 오류로 자체 수정(loss_fn, grad)
 
+> 6장_Softmax Classification(2/24)
+
 
 ### Part-2 DNN
 
