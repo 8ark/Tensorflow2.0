@@ -21,7 +21,9 @@
 * 제시코드 오류로 자체 수정(loss_fn, grad)
 
 > 6장_Softmax Classification(2/24)
+* Animal data로 classification(2/25)
 
+> 7장_LearningRate_DataPreprocessing_Stardization_Regulation(2/26)
 
 ### Part-2 DNN
 
