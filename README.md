@@ -27,6 +27,11 @@
 
 ### Part-2 DNN
 
+> 1장_ Neural Net for XOR (3/02)
+
+> 2장_ Sigmoid_ReLU (3/07)
+
+
 ### Part-3 CNN
 
 ### Part-4 RNN
